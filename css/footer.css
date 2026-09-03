@@ -6,7 +6,6 @@
 .footer .container {
   display: flex;
   gap: 16px;
-  padding: 0 15px;
   flex-direction: column;
 }
 
