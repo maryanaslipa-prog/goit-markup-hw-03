@@ -1,10 +1,13 @@
+.footer {
+  padding: 100px 0;
+  background-color: #2e2f42;
+}
+
 .footer .container {
   display: flex;
   gap: 16px;
-  padding: 100px 15px;
+  padding: 0 15px;
   flex-direction: column;
-
-  background-color: #2e2f42;
 }
 
 .footer-text {

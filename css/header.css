@@ -1,11 +1,14 @@
 .header {
-  padding: 0 15px;
   border-bottom: 1px solid #e7e9fc;
 }
 .header .container {
   display: flex;
   align-items: center;
 }
+.header .logo {
+  padding: 24px 0;
+}
+
 .main-nav {
   margin-left: 76px;
   margin-right: auto;
@@ -33,9 +36,9 @@
   display: flex;
   align-items: center;
   gap: 40px;
-  padding: 24px 0;
 }
 .contacts-item {
+  padding: 24px 0;
 }
 .contacts-link:hover,
 .contacts-link:focus {
