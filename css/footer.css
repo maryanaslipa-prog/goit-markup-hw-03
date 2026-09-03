@@ -1,7 +1,11 @@
 .footer {
+  gap: 16px;
+  padding: 100px 0;
+
   background-color: #2e2f42;
 }
 
 .footer-text {
+  max-width: 264px;
   color: #f4f4fd;
 }
